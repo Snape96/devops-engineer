@@ -1,0 +1,33 @@
+{
+    "chatParts": [
+      {
+        "type": "user",
+        "message": [
+          {
+            "timestamp": "2023-10-10T08:15:45.000Z",
+            "index": 0,
+            "state": "success",
+            "message": "Can you give me a pasta recipe?"
+          }
+        ]
+      },
+      {
+        "type": "agent",
+        "message": [
+          {
+            "timestamp": "2023-10-10T08:15:50.000Z",
+            "index": 0,
+            "state": "success",
+            "message": "Sure! How about a spaghetti carbonara recipe?"
+          },
+          {
+            "timestamp": "2023-10-10T08:16:05.000Z",
+            "index": 1,
+            "state": "success",
+            "message": "Actually, here's a recipe for penne alla vodka that you might enjoy more."
+          }
+        ]
+      }
+    ]
+  }
+  

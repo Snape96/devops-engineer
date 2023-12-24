@@ -1,0 +1,1 @@
+export const NAME_CONVERSATION_PROMPT = "You are chat analysis. I will give you first message of a chat and you will create a short name for this conversation, preferably less than 10 words. Your answer will be only the name of the conversation and nothing more.";

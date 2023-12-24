@@ -1,0 +1,26 @@
+{
+    "chatParts": [
+      {
+        "type": "user",
+        "message": [
+          {
+            "timestamp": "2023-10-10T07:12:24.000Z",
+            "index": 0,
+            "state": "success",
+            "message": "Hello, what's the weather like today?"
+          }
+        ]
+      },
+      {
+        "type": "agent",
+        "message": [
+          {
+            "timestamp": "2023-10-10T07:12:30.000Z",
+            "index": 0,
+            "state": "success",
+            "message": "Hello! It's sunny and 75 degrees today."
+          }
+        ]
+      }
+    ]
+  }

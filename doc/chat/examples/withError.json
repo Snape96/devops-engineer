@@ -1,0 +1,27 @@
+{
+    "chatParts": [
+      {
+        "type": "user",
+        "message": [
+          {
+            "timestamp": "2023-10-10T09:22:19.000Z",
+            "index": 0,
+            "state": "success",
+            "message": "Show me my meeting schedule for today."
+          }
+        ]
+      },
+      {
+        "type": "agent",
+        "message": [
+          {
+            "timestamp": "2023-10-10T09:22:25.000Z",
+            "index": 0,
+            "state": "error",
+            "errorMessage": "I'm sorry, I can't access your calendar. Please ensure you have provided the necessary permissions."
+          }
+        ]
+      }
+    ]
+  }
+  
